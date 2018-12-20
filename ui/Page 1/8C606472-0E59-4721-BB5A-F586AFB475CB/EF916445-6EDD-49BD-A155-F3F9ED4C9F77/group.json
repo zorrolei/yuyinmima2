@@ -1,0 +1,123 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EF916445-6EDD-49BD-A155-F3F9ED4C9F77",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 80,
+    "x": 202,
+    "y": 236
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "94FB4981-30F5-48B8-9285-F32DB2F58F69"
+    },
+    {
+      "class": "shapePath",
+      "id": "9CA3F57E-B1C0-40A9-9561-092DE7111D47"
+    },
+    {
+      "class": "shapePath",
+      "id": "BCE23E49-A4FC-4E29-8262-FC774CCC1C2E"
+    },
+    {
+      "class": "shapePath",
+      "id": "E4E90028-5B96-411F-9B7A-EA321070CA1C"
+    },
+    {
+      "class": "shapePath",
+      "id": "8DAC2BC2-46EA-47E6-A596-5B224668EE82"
+    },
+    {
+      "class": "shapePath",
+      "id": "6D895FCB-AF50-40A8-BD61-CF44E0C333E1"
+    },
+    {
+      "class": "rectangle",
+      "id": "959D7C59-35FA-40FB-BD75-7707F7360E69"
+    },
+    {
+      "class": "shapePath",
+      "id": "D51A4A9B-FAAD-4662-9073-30B95D51E9E0"
+    },
+    {
+      "class": "shapePath",
+      "id": "D550492B-F9CF-4939-94DA-E65C06FE9B3B"
+    },
+    {
+      "class": "oval",
+      "id": "EA9563C5-DBAD-4AC1-A638-4C7A14CBA70B"
+    },
+    {
+      "class": "oval",
+      "id": "AE4087A0-92BC-4F70-90CF-EDF106D5C97E"
+    },
+    {
+      "class": "shapePath",
+      "id": "5F8E82ED-7C9C-4331-9F9B-1F4F981EE909"
+    },
+    {
+      "class": "shapePath",
+      "id": "003549CC-C1F9-4381-B6F5-BDD04004A092"
+    },
+    {
+      "class": "shapePath",
+      "id": "F4A0968E-0162-47EF-AEE1-B82AEBB7BD22"
+    },
+    {
+      "class": "shapePath",
+      "id": "2CB21583-4601-466C-A503-CA45A845961D"
+    },
+    {
+      "class": "shapePath",
+      "id": "BCE00E3C-BC76-481F-BFF8-6040E8EFB518"
+    },
+    {
+      "class": "shapePath",
+      "id": "5D2ED1BE-D38B-4B32-930C-CF473764FF5C"
+    }
+  ],
+  "name": "jeep",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.587301587301587,
+      "saturation": 1,
+      "type": 0
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

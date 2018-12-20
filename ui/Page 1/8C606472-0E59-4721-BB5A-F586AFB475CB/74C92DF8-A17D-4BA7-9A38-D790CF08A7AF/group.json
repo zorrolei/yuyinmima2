@@ -1,0 +1,119 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "74C92DF8-A17D-4BA7-9A38-D790CF08A7AF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 75,
+    "x": 210,
+    "y": 118
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "DFDFE30B-F341-4B84-9BEC-C9611BDFA4C1"
+    },
+    {
+      "class": "shapePath",
+      "id": "77F8DE5E-76B9-4E63-AAB2-45E3064EFF01"
+    },
+    {
+      "class": "shapePath",
+      "id": "BF7FEA07-5E7A-4557-92D5-C56854C7B494"
+    },
+    {
+      "class": "shapePath",
+      "id": "3A09E039-3BED-45CF-A160-2A34868ADD2E"
+    },
+    {
+      "class": "shapePath",
+      "id": "442476D9-F76D-4C18-AF31-360DF310A5E7"
+    },
+    {
+      "class": "shapePath",
+      "id": "63C9ACC2-3699-49DB-884D-75FBD234D73A"
+    },
+    {
+      "class": "shapePath",
+      "id": "7653CBAA-91E5-48CA-87A7-97D30EE6DA07"
+    },
+    {
+      "class": "shapePath",
+      "id": "A58E6A9F-2FBB-4356-BFFE-46A6846071B3"
+    },
+    {
+      "class": "shapePath",
+      "id": "9605601D-53A1-4202-B19D-BA83218821CA"
+    },
+    {
+      "class": "shapePath",
+      "id": "B88AECA8-6C48-4BC1-83D8-5F77477E49B2"
+    },
+    {
+      "class": "shapePath",
+      "id": "27B506B0-764A-436A-AC54-1B3C6454FBB5"
+    },
+    {
+      "class": "shapePath",
+      "id": "AFAD19E8-3D1D-4C52-A0BA-356DA808032D"
+    },
+    {
+      "class": "shapePath",
+      "id": "0A35F226-9B7F-4D81-B058-E089B690F145"
+    },
+    {
+      "class": "shapePath",
+      "id": "63C20DCA-235D-430C-AF07-98E6CCED74A3"
+    },
+    {
+      "class": "shapePath",
+      "id": "FCB345C4-F90C-444A-BAE2-FA75D45FAB75"
+    },
+    {
+      "class": "shapePath",
+      "id": "EBFD2882-1DAC-44C5-8340-4BDA069C104D"
+    }
+  ],
+  "name": "羊",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 27.69124264451367,
+      "saturation": 1,
+      "type": 0
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
