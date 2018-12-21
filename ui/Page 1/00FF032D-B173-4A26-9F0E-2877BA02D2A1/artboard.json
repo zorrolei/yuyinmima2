@@ -37,7 +37,7 @@
     "y": 1343
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -248,7 +248,9 @@
       "highestQuality": -1,
       "included": 1,
       "linkedLayers": [
-        "53CD29B8-8BD1-4B3A-95D1-F74BD05D9A3F"
+        "53CD29B8-8BD1-4B3A-95D1-F74BD05D9A3F",
+        "63A75BA2-8F49-4595-AD1D-16768C54610E",
+        "9243E136-8717-4CCF-A61A-DDF8E0428AEB"
       ]
     }
   },
