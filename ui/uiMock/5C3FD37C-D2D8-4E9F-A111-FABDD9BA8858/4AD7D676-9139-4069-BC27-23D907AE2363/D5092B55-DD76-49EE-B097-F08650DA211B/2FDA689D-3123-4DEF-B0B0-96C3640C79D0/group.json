@@ -1,0 +1,95 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2FDA689D-3123-4DEF-B0B0-96C3640C79D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 486,
+    "width": 955,
+    "x": 210.9866666666667,
+    "y": 197.5413794903926
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "44A923A7-6369-4881-9301-B735D7288011"
+    },
+    {
+      "class": "group",
+      "id": "F1D7BC4E-5525-41FD-B03B-A899E083F1D2"
+    },
+    {
+      "class": "group",
+      "id": "0C3E69DB-184F-403C-A378-2F88A2512890"
+    },
+    {
+      "class": "group",
+      "id": "AED3B52F-3C7E-469E-95C4-4E08303D666C"
+    },
+    {
+      "class": "group",
+      "id": "46EC98C1-5173-4C50-B958-A7EF663FB5CF"
+    },
+    {
+      "class": "group",
+      "id": "FE3CA8B6-AA0B-4324-BB50-2D52F1FD031B"
+    },
+    {
+      "class": "group",
+      "id": "76A2056A-327B-4CC4-AEE1-AA4F91C66072"
+    },
+    {
+      "class": "group",
+      "id": "F0B49031-CB01-4DAA-B1ED-E8CBFD2B3DEB"
+    },
+    {
+      "class": "group",
+      "id": "9BF8476B-ACBA-44EF-919F-B3E453EFA99F"
+    },
+    {
+      "class": "group",
+      "id": "71B626BF-C51F-4DC6-9A18-26648378C1AC"
+    }
+  ],
+  "name": "iPhone X 05/Right/Clay White",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6,
+      "saturation": 1,
+      "type": 0
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

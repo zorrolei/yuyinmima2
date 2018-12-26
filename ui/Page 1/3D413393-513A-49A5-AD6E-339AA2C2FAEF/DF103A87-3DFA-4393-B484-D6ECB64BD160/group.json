@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DF103A87-3DFA-4393-B484-D6ECB64BD160",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D5518B7D-B109-4E35-A9B3-440DC757CA14",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 1024,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 10.24,
+        "visibleScaleType": 1
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "90D95E0A-11F8-40D8-A572-7AEB0246A6EB",
+    "height": 232,
+    "width": 232,
+    "x": 72,
+    "y": 218
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "BCEBBAD6-B030-4991-8FDB-4027C6F7AB7C"
+    },
+    {
+      "class": "bitmap",
+      "id": "055CAC6C-F000-47F4-B963-80A8822F922E"
+    }
+  ],
+  "name": "1591511955348_.pic",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7A6B3EE2-5094-41C3-A05B-707D22C162A9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

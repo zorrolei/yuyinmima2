@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8F544534-4039-4CA1-9E72-B7219F6BBE90",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1001.999999999999,
+    "width": 389,
+    "x": 0.006540247677923406,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6126CF46-89F3-4650-B4C4-F25E922B08CF"
+    },
+    {
+      "class": "group",
+      "id": "ADA731EF-6964-415D-928A-956335FEDD1A"
+    },
+    {
+      "class": "group",
+      "id": "B220A243-1086-47AB-B4EB-E04CF7BD56C2"
+    },
+    {
+      "class": "group",
+      "id": "17394295-196D-483D-B8BC-C2EB5F7941CF"
+    },
+    {
+      "class": "group",
+      "id": "EBBBCC63-0CB5-4176-B4D8-1C281A38425E"
+    },
+    {
+      "class": "group",
+      "id": "314C77DB-69C5-4000-B40E-49D88781E436"
+    },
+    {
+      "class": "group",
+      "id": "86794001-ED8D-48B8-81C6-7C546BC035CC"
+    }
+  ],
+  "name": "iPhone X 04/Right/Clay White",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.04,
+      "saturation": 1,
+      "type": 0
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
